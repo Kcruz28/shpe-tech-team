@@ -1,0 +1,9 @@
+gymnasium==1.2.3
+pybullet==3.25
+numpy==2.4.2
+stable-baselines3==2.7.1
+torch==2.10.0
+matplotlib==3.10.6
+pandas==3.0.0
+Pillow==11.3.0
+tqdm==4.67.3
